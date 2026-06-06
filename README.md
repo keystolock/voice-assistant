@@ -1,5 +1,12 @@
 # Voice Assistant (Python)
 
+![Python](https://img.shields.io/badge/python-3.14.5-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Issues](https://img.shields.io/github/issues/keystolock/voice-assistant)
+![Stars](https://img.shields.io/github/stars/keystolock/voice-assistant?style=social)
+
+# Voice Assistant (Python)
+
 A simple Python voice assistant with speech recognition, text-to-speech, and music playback.
 
 ## Features
