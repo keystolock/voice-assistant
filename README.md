@@ -17,18 +17,21 @@ A simple Python voice assistant with speech recognition, text-to-speech, and mus
    git clone https://github.com/username/voice-assistant.git
 
 2. Make virtual Env and activate it:
+3. <br>
    python -m venv venv 
    source venv/Scripts/activate (for linux/mac/gitbash)
 
-3. Install dependencies:
+4. Install dependencies:
+5. <br>
   pip install -r requirement.txt
 
-4. Create .env folder with your API Keys:
+6. Create .env folder with your API Keys:
+7. <br>
     News_API_Key = {Your api keys}
     Weather_API_key = {Your api keys}
 
 
 # Usage
-Run the progam using : python assistance.py
-Say "google" to activate for tasks
+Run the progam using : python assistance.py <br>
+Say "google" to activate for tasks <br>
 Say "exit/stop" to terminate the program
